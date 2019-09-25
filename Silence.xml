@@ -1,0 +1,17 @@
+<rss version="2.0">
+	<channel>
+		<title>Silence</title>
+		<image>https://i.imgur.com/8tzKDeQ.png</image>
+		<itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="https://i.imgur.com/8tzKDeQ.png"/>
+		<itunes:author xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Silence</itunes:author>
+		<item>
+			<title>Silence</title>
+			<itunes:title xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">Silence</itunes:title>
+			<pubDate>Sun, 22 Sep 2019 19:22:37 EDT</pubDate>
+			<guid isPermaLink="false">068758e6-6d44-41a9-8f54-d4b9a33514d6</guid>
+			<enclosure url="https://micahmo.github.io/SilenceRSS/Silence.mp3" length="18147672" type="audio/mpeg"/>
+			<itunes:image xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" href="https://i.imgur.com/8tzKDeQ.png"/>
+			<itunes:duration xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">1:00</itunes:duration>
+		</item>
+	</channel>
+</rss>
